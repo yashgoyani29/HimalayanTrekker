@@ -8,6 +8,7 @@ This project was developed as part of a **Full Stack Development course**.
 Developed by Yash Goyani
 
 GitHub: https://github.com/yashgoyani29
+
 Linkedin: https://www.linkedin.com/in/yash-goyani-882106291
 
 ## 🚀 Features
@@ -41,9 +42,9 @@ Linkedin: https://www.linkedin.com/in/yash-goyani-882106291
 
 ## 📷 Screenshots
 ### 🏠 Homepage
-<img src="./HimalayanTrekker/images/H1.jpg" alt="Homepage" width="600"/>
+<img src="./HimalayanTrekker/images/H1.png" alt="Homepage" width="600"/>
 
-![Homepage](./HimalayanTrekker/images/H2.jpg)
+![Homepage](./HimalayanTrekker/images/)
 
 ![Homepage](./HimalayanTrekker/images/H3.jpg)
 
