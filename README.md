@@ -5,14 +5,15 @@ HimalayanTrekker is a **web-based trekking and adventure platform** designed to 
 This project was developed as part of a **Full Stack Development course**.
 
 ---
-👨‍💻 Author
-Developed by Yash Goyani
+👨‍💻 Developer Info
 
-Live Demo : https://himaliyantrekker.netlify.app/
+Full Name: Yash Goyani
+
+🎓 B.Tech in Information Technology, LJIET (Graduating in 2027)
 
 GitHub: https://github.com/yashgoyani29
 
-Linkedin: https://www.linkedin.com/in/yash-goyani-882106291
+LinkedIn: https://www.linkedin.com/in/yash-goyani-882106291
 
 ## 🚀 Features
 - 🏞️ **Destination Explorer** – Browse curated Himalayan trekking routes and destinations.
