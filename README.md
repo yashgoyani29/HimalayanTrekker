@@ -41,7 +41,7 @@ Linkedin: https://www.linkedin.com/in/yash-goyani-882106291
 
 ## 📷 Screenshots
 ### 🏠 Homepage
-![Homepage](./HimalayanTrekker/images/H1.jpg)
+<img src="./HimalayanTrekker/images/H1.jpg" alt="Homepage" width="600"/>
 
 ![Homepage](./HimalayanTrekker/images/H2.jpg)
 
