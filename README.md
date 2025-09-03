@@ -8,6 +8,8 @@ This project was developed as part of a **Full Stack Development course**.
 👨‍💻 Author
 Developed by Yash Goyani
 
+Live Demo : https://himaliyantrekker.netlify.app/
+
 GitHub: https://github.com/yashgoyani29
 
 Linkedin: https://www.linkedin.com/in/yash-goyani-882106291
