@@ -53,8 +53,10 @@ Linkedin: https://www.linkedin.com/in/yash-goyani-882106291
 <img width="1918" height="861" alt="AU1" src="https://github.com/user-attachments/assets/27eaf373-986c-43c7-b3ea-f883aab266a5" />
 
 <img width="1901" height="808" alt="AU2" src="https://github.com/user-attachments/assets/47091030-1b9c-4908-8894-e768688fb973" />
+
 ### 🏞️ Destination Page
 <img width="1903" height="1079" alt="D1" src="https://github.com/user-attachments/assets/597515d0-2cb1-40b6-a641-ec98c3e5d4fd" />
+
 ### 🎒 Rent Gear Page
 <img width="1899" height="860" alt="RG1" src="https://github.com/user-attachments/assets/232a288e-d6c1-4986-a746-2b61f3291712" />
 
